@@ -36,9 +36,9 @@ Finished project on a 370px screen
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/zsoolti8917/Result-summary-component)
-- Live Site URL: [Add live site URL here](https://helpful-haupia-fd0868.netlify.app/)
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/c28a9091-e87f-4115-a9c1-3acd72feae7f/deploy-status)](https://app.netlify.com/sites/helpful-haupia-fd0868/deploys)
+- Solution URL: [My solution on GitHub](https://github.com/zsoolti8917/Result-summary-component)
+- Live Site URL: [Live site on Netlify](https://helpful-haupia-fd0868.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c28a9091-e87f-4115-a9c1-3acd72feae7f/deploy-status)](https://app.netlify.com/sites/helpful-haupia-fd0868/deploys)
 
 ## My process
 
@@ -67,4 +67,5 @@ In the future i would like to learn more about flexbox and grid, and i would lik
 ## Acknowledgments
 
 As i mentioned earlier i would like to thank Kevin Powell and Dave Gray for their great tutorials and their great teaching skills. I would also like to thank Frontend Mentor for their great challenges, they are really helpful for beginners like me.
+I took a lot of code snippets from Kevin's video [here](https://www.youtube.com/watch?v=KqFAs5d3Yl8) which than i tried to replicate on my own.
 
