@@ -30,7 +30,7 @@ Users should be able to:
 
 ![Finished project on 1440px](Finished%20images/PC%20solution.png)
 
-![Finished project on 370px](Finished%20images/Mobile%20solution.png)
+![Finished project on 370px](Finished%20images/Mobile%20solution%20(Phone).png)
 
 ### Links
 
@@ -51,7 +51,7 @@ Users should be able to:
 
 This was my first Frontend mentor project that i created (my second project using HTML and CSS altogether), i struggled very much with the positioning of the elements, but i learned a lot from this project. I learned how to use flexbox and grid, and i learned how to use the dev tools to see what is going on with the elements.
 I watched a lot of tutorials on how to do what and took a lot of notes, and i think i will be able to do better next time.
-I would like to specially thank to Kevin Powell, he is a great teacher and i learned a lot from him. The same should be said about Dave Gray, he is also a great teacher and i learned a lot from him too. (their youtube channels are: [Kevin Powell](https://www.youtube.com/@KevinPowell) and Dave Gray [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode))
+I would like to specially thank to Kevin Powell, he is a great teacher and i learned a lot from him. The same should be said about Dave Gray, he is also a great teacher and i learned a lot from him too. (their youtube channels are: [Kevin Powell](https://www.youtube.com/@KevinPowell) and[Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode))
 
 ### Continued development
 
