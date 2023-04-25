@@ -256,6 +256,7 @@ body{
         grid-template-columns: 1fr;
     grid-template-rows: repeat(2, 1fr);
     border-radius: 0;
+    min-height: 100vh;
     }
 
     .right__title{
