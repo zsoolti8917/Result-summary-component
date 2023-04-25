@@ -1,6 +1,6 @@
 # Frontend Mentor - Results summary component solution
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -14,11 +14,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -31,83 +28,41 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Finished project on 1440px](Finished%20images/PC%20solution.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+![Finished project on 370px](Finished%20images/Mobile%20solution.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/zsoolti8917/Result-summary-component)
+- Live Site URL: [Add live site URL here](https://helpful-haupia-fd0868.netlify.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/c28a9091-e87f-4115-a9c1-3acd72feae7f/deploy-status)](https://app.netlify.com/sites/helpful-haupia-fd0868/deploys)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS 
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+This was my first Frontend mentor project that i created (my second project using HTML and CSS altogether), i struggled very much with the positioning of the elements, but i learned a lot from this project. I learned how to use flexbox and grid, and i learned how to use the dev tools to see what is going on with the elements.
+I watched a lot of tutorials on how to do what and took a lot of notes, and i think i will be able to do better next time.
+I would like to specially thank to Kevin Powell, he is a great teacher and i learned a lot from him. The same should be said about Dave Gray, he is also a great teacher and i learned a lot from him too. (their youtube channels are: [Kevin Powell](https://www.youtube.com/@KevinPowell) and Dave Gray [Dave Gray](https://www.youtube.com/@DaveGrayTeachesCode))
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+In the future i would like to learn more about flexbox and grid, and i would like to improve my css skills. I think i will give a try to this project again in the following months, and i will try to do it better than the first time. Mainly thinking about adding new features to the project.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- GitHub - [@zsoolti8917](https://github.com/zsoolti8917)
+- Frontend Mentor - [@zsoltvarju](https://www.frontendmentor.io/profile/zsoltvarju)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+As i mentioned earlier i would like to thank Kevin Powell and Dave Gray for their great tutorials and their great teaching skills. I would also like to thank Frontend Mentor for their great challenges, they are really helpful for beginners like me.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
