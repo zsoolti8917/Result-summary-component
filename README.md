@@ -31,6 +31,7 @@ Finished project on a 1440px screen
 ![Finished project on 1440px](Finished%20images/PC%20solution.png)
 
 Finished project on a 370px screen
+<br />
 ![Finished project on 370px](Finished%20images/Mobile%20solution%20(Phone).png)
 
 ### Links
